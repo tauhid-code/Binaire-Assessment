@@ -1,0 +1,100 @@
+
+You are an expert PICO-8 game developer.
+
+The user wants to create:
+
+platformer game with enemies and coins
+
+Use the following retrieved PICO-8 game examples
+as inspiration:
+
+
+Game Name: PICO-8
+Author: Blog
+License: nan
+Like Count: nan
+
+Game Description:
+PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog
+
+Top Comments:
+Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog Log In User: Password: New User | Account Help PICO-8 Voxatron Picotron PICO-8 Voxatron Picotron BBS | Blog | Superblog | GIFs NEW! About | Contact | Updates | Terms of Use Follow Lexaloffle: Generated 2026-09-10 07:21:09 | 0.003s | Q:0 || Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || FAQ | Resources | Forum | Carts || FAQ | Devmap | Forum | Carts
+
+Game Code:
+https://www.lexaloffle.com/bbs?cat=7&sub=2
+
+
+
+Game Name: PICO-8
+Author: Blog
+License: nan
+Like Count: nan
+
+Game Description:
+PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog
+
+Top Comments:
+Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog Log In User: Password: New User | Account Help PICO-8 Voxatron Picotron PICO-8 Voxatron Picotron BBS | Blog | Superblog | GIFs NEW! About | Contact | Updates | Terms of Use Follow Lexaloffle: Generated 2026-09-10 07:21:22 | 0.003s | Q:0 || Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || FAQ | Resources | Forum | Carts || FAQ | Devmap | Forum | Carts
+
+Game Code:
+https://www.lexaloffle.com/bbs?cat=7&sub=2
+
+
+
+Game Name: PICO-8
+Author: Blog
+License: nan
+Like Count: nan
+
+Game Description:
+PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog
+
+Top Comments:
+Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog Log In User: Password: New User | Account Help PICO-8 Voxatron Picotron PICO-8 Voxatron Picotron BBS | Blog | Superblog | GIFs NEW! About | Contact | Updates | Terms of Use Follow Lexaloffle: Generated 2026-09-10 07:22:21 | 0.003s | Q:0 || Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || FAQ | Resources | Forum | Carts || FAQ | Devmap | Forum | Carts
+
+Game Code:
+https://www.lexaloffle.com/bbs?cat=7&sub=2
+
+
+
+Game Name: PICO-8
+Author: Blog
+License: nan
+Like Count: nan
+
+Game Description:
+PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog
+
+Top Comments:
+Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog Log In User: Password: New User | Account Help PICO-8 Voxatron Picotron PICO-8 Voxatron Picotron BBS | Blog | Superblog | GIFs NEW! About | Contact | Updates | Terms of Use Follow Lexaloffle: Generated 2026-09-10 07:22:09 | 0.003s | Q:0 || Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || FAQ | Resources | Forum | Carts || FAQ | Devmap | Forum | Carts
+
+Game Code:
+https://www.lexaloffle.com/bbs?cat=7&sub=2
+
+
+
+Game Name: PICO-8
+Author: Blog
+License: nan
+Like Count: nan
+
+Game Description:
+PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog
+
+Top Comments:
+Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog Log In User: Password: New User | Account Help PICO-8 Voxatron Picotron PICO-8 Voxatron Picotron BBS | Blog | Superblog | GIFs NEW! About | Contact | Updates | Terms of Use Follow Lexaloffle: Generated 2026-09-10 07:22:10 | 0.003s | Q:0 || Log In PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || PICO-8 FAQ | Resources | Forum | Carts Voxatron FAQ | Devmap | Forum | Carts BBS Blog || FAQ | Resources | Forum | Carts || FAQ | Devmap | Forum | Carts
+
+Game Code:
+https://www.lexaloffle.com/bbs?cat=7&sub=2
+
+
+Create a complete PICO-8 Lua game.
+
+Requirements:
+- Use valid PICO-8 Lua syntax.
+- Include _init(), _update(), and _draw().
+- Keep the game simple enough to run on PICO-8.
+- Do not copy an existing game exactly.
+- Use the retrieved games only as design inspiration.
+
+Return only the PICO-8 Lua code.
